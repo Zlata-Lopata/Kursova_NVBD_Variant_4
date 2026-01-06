@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\4 \u043A\u0443\u0440\u0441\\\u041D\u0430\u0434\u0432\u0435\u043B\u0438\u043A\u0456 \u0431\u0430\u0437\u0438 \u0434\u0430\u043D\u0438\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\SSAS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9903B0B9-6F09-46BB-262E-E8B312FA0CED}|SSAS\\SSAS.dwproj|D:\\4 \u043A\u0443\u0440\u0441\\\u041D\u0430\u0434\u0432\u0435\u043B\u0438\u043A\u0456 \u0431\u0430\u0437\u0438 \u0434\u0430\u043D\u0438\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\SSAS\\SSAS\\Dim Customer.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{9903B0B9-6F09-46BB-262E-E8B312FA0CED}|SSAS\\SSAS.dwproj|solutionrelative:SSAS\\Dim Customer.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9903B0B9-6F09-46BB-262E-E8B312FA0CED}|SSAS\\SSAS.dwproj|D:\\4 \u043A\u0443\u0440\u0441\\\u041D\u0430\u0434\u0432\u0435\u043B\u0438\u043A\u0456 \u0431\u0430\u0437\u0438 \u0434\u0430\u043D\u0438\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\SSAS\\SSAS\\Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{9903B0B9-6F09-46BB-262E-E8B312FA0CED}|SSAS\\SSAS.dwproj|solutionrelative:SSAS\\Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9903B0B9-6F09-46BB-262E-E8B312FA0CED}|SSAS\\SSAS.dwproj|D:\\4 \u043A\u0443\u0440\u0441\\\u041D\u0430\u0434\u0432\u0435\u043B\u0438\u043A\u0456 \u0431\u0430\u0437\u0438 \u0434\u0430\u043D\u0438\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\SSAS\\SSAS\\Excursions DWH.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{9903B0B9-6F09-46BB-262E-E8B312FA0CED}|SSAS\\SSAS.dwproj|solutionrelative:SSAS\\Excursions DWH.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9903B0B9-6F09-46BB-262E-E8B312FA0CED}|SSAS\\SSAS.dwproj|D:\\4 \u043A\u0443\u0440\u0441\\\u041D\u0430\u0434\u0432\u0435\u043B\u0438\u043A\u0456 \u0431\u0430\u0437\u0438 \u0434\u0430\u043D\u0438\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\SSAS\\SSAS\\Dim Driver.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{9903B0B9-6F09-46BB-262E-E8B312FA0CED}|SSAS\\SSAS.dwproj|solutionrelative:SSAS\\Dim Driver.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9903B0B9-6F09-46BB-262E-E8B312FA0CED}|SSAS\\SSAS.dwproj|D:\\4 \u043A\u0443\u0440\u0441\\\u041D\u0430\u0434\u0432\u0435\u043B\u0438\u043A\u0456 \u0431\u0430\u0437\u0438 \u0434\u0430\u043D\u0438\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\SSAS\\SSAS\\Dim Bus.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{9903B0B9-6F09-46BB-262E-E8B312FA0CED}|SSAS\\SSAS.dwproj|solutionrelative:SSAS\\Dim Bus.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9903B0B9-6F09-46BB-262E-E8B312FA0CED}|SSAS\\SSAS.dwproj|D:\\4 \u043A\u0443\u0440\u0441\\\u041D\u0430\u0434\u0432\u0435\u043B\u0438\u043A\u0456 \u0431\u0430\u0437\u0438 \u0434\u0430\u043D\u0438\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\SSAS\\SSAS\\Dim Invoice.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{9903B0B9-6F09-46BB-262E-E8B312FA0CED}|SSAS\\SSAS.dwproj|solutionrelative:SSAS\\Dim Invoice.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9903B0B9-6F09-46BB-262E-E8B312FA0CED}|SSAS\\SSAS.dwproj|D:\\4 \u043A\u0443\u0440\u0441\\\u041D\u0430\u0434\u0432\u0435\u043B\u0438\u043A\u0456 \u0431\u0430\u0437\u0438 \u0434\u0430\u043D\u0438\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\SSAS\\SSAS\\Dim Excursion.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{9903B0B9-6F09-46BB-262E-E8B312FA0CED}|SSAS\\SSAS.dwproj|solutionrelative:SSAS\\Dim Excursion.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9903B0B9-6F09-46BB-262E-E8B312FA0CED}|SSAS\\SSAS.dwproj|D:\\4 \u043A\u0443\u0440\u0441\\\u041D\u0430\u0434\u0432\u0435\u043B\u0438\u043A\u0456 \u0431\u0430\u0437\u0438 \u0434\u0430\u043D\u0438\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\SSAS\\SSAS\\Excursions DWH.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{9903B0B9-6F09-46BB-262E-E8B312FA0CED}|SSAS\\SSAS.dwproj|solutionrelative:SSAS\\Excursions DWH.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dim Driver.dim [Design]",
+              "DocumentMoniker": "D:\\4 \u043A\u0443\u0440\u0441\\\u041D\u0430\u0434\u0432\u0435\u043B\u0438\u043A\u0456 \u0431\u0430\u0437\u0438 \u0434\u0430\u043D\u0438\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\SSAS\\SSAS\\Dim Driver.dim",
+              "RelativeDocumentMoniker": "SSAS\\Dim Driver.dim",
+              "ToolTip": "D:\\4 \u043A\u0443\u0440\u0441\\\u041D\u0430\u0434\u0432\u0435\u043B\u0438\u043A\u0456 \u0431\u0430\u0437\u0438 \u0434\u0430\u043D\u0438\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\SSAS\\SSAS\\Dim Driver.dim [Design]",
+              "RelativeToolTip": "SSAS\\Dim Driver.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-05T13:26:24.228Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dim Bus.dim [Design]",
+              "DocumentMoniker": "D:\\4 \u043A\u0443\u0440\u0441\\\u041D\u0430\u0434\u0432\u0435\u043B\u0438\u043A\u0456 \u0431\u0430\u0437\u0438 \u0434\u0430\u043D\u0438\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\SSAS\\SSAS\\Dim Bus.dim",
+              "RelativeDocumentMoniker": "SSAS\\Dim Bus.dim",
+              "ToolTip": "D:\\4 \u043A\u0443\u0440\u0441\\\u041D\u0430\u0434\u0432\u0435\u043B\u0438\u043A\u0456 \u0431\u0430\u0437\u0438 \u0434\u0430\u043D\u0438\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\SSAS\\SSAS\\Dim Bus.dim [Design]",
+              "RelativeToolTip": "SSAS\\Dim Bus.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-05T13:26:12.073Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dim Customer.dim [Design]",
+              "DocumentMoniker": "D:\\4 \u043A\u0443\u0440\u0441\\\u041D\u0430\u0434\u0432\u0435\u043B\u0438\u043A\u0456 \u0431\u0430\u0437\u0438 \u0434\u0430\u043D\u0438\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\SSAS\\SSAS\\Dim Customer.dim",
+              "RelativeDocumentMoniker": "SSAS\\Dim Customer.dim",
+              "ToolTip": "D:\\4 \u043A\u0443\u0440\u0441\\\u041D\u0430\u0434\u0432\u0435\u043B\u0438\u043A\u0456 \u0431\u0430\u0437\u0438 \u0434\u0430\u043D\u0438\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\SSAS\\SSAS\\Dim Customer.dim [Design]",
+              "RelativeToolTip": "SSAS\\Dim Customer.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-05T13:24:02.141Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dim Date.dim [Design]",
+              "DocumentMoniker": "D:\\4 \u043A\u0443\u0440\u0441\\\u041D\u0430\u0434\u0432\u0435\u043B\u0438\u043A\u0456 \u0431\u0430\u0437\u0438 \u0434\u0430\u043D\u0438\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\SSAS\\SSAS\\Dim Date.dim",
+              "RelativeDocumentMoniker": "SSAS\\Dim Date.dim",
+              "ToolTip": "D:\\4 \u043A\u0443\u0440\u0441\\\u041D\u0430\u0434\u0432\u0435\u043B\u0438\u043A\u0456 \u0431\u0430\u0437\u0438 \u0434\u0430\u043D\u0438\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\SSAS\\SSAS\\Dim Date.dim [Design]*",
+              "RelativeToolTip": "SSAS\\Dim Date.dim [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-05T13:23:12.907Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dim Excursion.dim [Design]",
+              "DocumentMoniker": "D:\\4 \u043A\u0443\u0440\u0441\\\u041D\u0430\u0434\u0432\u0435\u043B\u0438\u043A\u0456 \u0431\u0430\u0437\u0438 \u0434\u0430\u043D\u0438\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\SSAS\\SSAS\\Dim Excursion.dim",
+              "RelativeDocumentMoniker": "SSAS\\Dim Excursion.dim",
+              "ToolTip": "D:\\4 \u043A\u0443\u0440\u0441\\\u041D\u0430\u0434\u0432\u0435\u043B\u0438\u043A\u0456 \u0431\u0430\u0437\u0438 \u0434\u0430\u043D\u0438\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\SSAS\\SSAS\\Dim Excursion.dim [Design]",
+              "RelativeToolTip": "SSAS\\Dim Excursion.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-05T13:24:19.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Excursions DWH.cube [Design]",
+              "DocumentMoniker": "D:\\4 \u043A\u0443\u0440\u0441\\\u041D\u0430\u0434\u0432\u0435\u043B\u0438\u043A\u0456 \u0431\u0430\u0437\u0438 \u0434\u0430\u043D\u0438\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\SSAS\\SSAS\\Excursions DWH.cube",
+              "RelativeDocumentMoniker": "SSAS\\Excursions DWH.cube",
+              "ToolTip": "D:\\4 \u043A\u0443\u0440\u0441\\\u041D\u0430\u0434\u0432\u0435\u043B\u0438\u043A\u0456 \u0431\u0430\u0437\u0438 \u0434\u0430\u043D\u0438\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\SSAS\\SSAS\\Excursions DWH.cube [Design]",
+              "RelativeToolTip": "SSAS\\Excursions DWH.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-05T13:19:01.616Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dim Invoice.dim [Design]",
+              "DocumentMoniker": "D:\\4 \u043A\u0443\u0440\u0441\\\u041D\u0430\u0434\u0432\u0435\u043B\u0438\u043A\u0456 \u0431\u0430\u0437\u0438 \u0434\u0430\u043D\u0438\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\SSAS\\SSAS\\Dim Invoice.dim",
+              "RelativeDocumentMoniker": "SSAS\\Dim Invoice.dim",
+              "ToolTip": "D:\\4 \u043A\u0443\u0440\u0441\\\u041D\u0430\u0434\u0432\u0435\u043B\u0438\u043A\u0456 \u0431\u0430\u0437\u0438 \u0434\u0430\u043D\u0438\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\SSAS\\SSAS\\Dim Invoice.dim [Design]",
+              "RelativeToolTip": "SSAS\\Dim Invoice.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-05T13:24:40.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Excursions DWH.dsv [Design]",
+              "DocumentMoniker": "D:\\4 \u043A\u0443\u0440\u0441\\\u041D\u0430\u0434\u0432\u0435\u043B\u0438\u043A\u0456 \u0431\u0430\u0437\u0438 \u0434\u0430\u043D\u0438\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\SSAS\\SSAS\\Excursions DWH.dsv",
+              "RelativeDocumentMoniker": "SSAS\\Excursions DWH.dsv",
+              "ToolTip": "D:\\4 \u043A\u0443\u0440\u0441\\\u041D\u0430\u0434\u0432\u0435\u043B\u0438\u043A\u0456 \u0431\u0430\u0437\u0438 \u0434\u0430\u043D\u0438\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\SSAS\\SSAS\\Excursions DWH.dsv [Design]",
+              "RelativeToolTip": "SSAS\\Excursions DWH.dsv [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-05T13:13:19.8Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

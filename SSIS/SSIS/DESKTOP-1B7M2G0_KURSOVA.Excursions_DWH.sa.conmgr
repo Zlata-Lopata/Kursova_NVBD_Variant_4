@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-1B7M2G0_KURSOVA.Excursions_DWH.sa"
+  DTS:DTSID="{01E952DB-5588-4177-9C96-5976205CCE6E}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=DESKTOP-1B7M2G0\KURSOVA;User ID=sa;Initial Catalog=Excursions_DWH;Provider=SQLOLEDB.1;Persist Security Info=True;Application Name=SSIS-SSIS-{01E952DB-5588-4177-9C96-5976205CCE6E}DESKTOP-1B7M2G0\KURSOVA.Excursions_DWH.sa;Auto Translate=False;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAATJ2O9+kizEOl771BSLlmmgAAAAACAAAAAAAQZgAAAAEAACAAAADtdIDrM4mlMvBg6NQNT5o9xJDqMk3WcV03KGXkDDjV6wAAAAAOgAAAAAIAACAAAAB2ZFJyD0s9dKMRIdrCUcxishHb/V9BaCsrCNrRqq8/2nAAAAD+/blAaNmtT9w/MXu7TGb/uKP2SNvXcUyaoBva4oXGF82yyggT2QHc32y0WRjWnmsSwCjXe0wpJ7atLNtyFTTla2FPQmvT8jrUZgOT7xfEISXeE+IUY98Txpbi0QEPkCJasQ5UErGOKynMHXj03UMmQAAAAH3+23Wtomhp3LKTjn4mXd9ppWjo+715F11QsoqkHtkywshX6wlrse3VuxDy+3w49PRfqgOkJqVsAOGNNoMOjdE=</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

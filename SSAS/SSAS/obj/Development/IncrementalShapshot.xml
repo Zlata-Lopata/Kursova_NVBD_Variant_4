@@ -1,0 +1,96 @@
+﻿<DeploymentSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Target>
+    <Database>SSAS</Database>
+    <Server>DESKTOP-1B7M2G0\KURSOVA</Server>
+    <ConnectionString>Data Source=DESKTOP-1B7M2G0\KURSOVA;Timeout=0</ConnectionString>
+  </Target>
+  <Options>
+    <TransactionalDeployment>false</TransactionalDeployment>
+    <PartitionDeployment>DeployPartitions</PartitionDeployment>
+    <RoleDeployment>DeployRolesRetainMembers</RoleDeployment>
+    <ProcessingOption>Default</ProcessingOption>
+    <OutputScript></OutputScript>
+    <ImpactAnalysisFile></ImpactAnalysisFile>
+    <ConfigurationSettingsDeployment>Deploy</ConfigurationSettingsDeployment>
+    <OptimizationSettingsDeployment>Deploy</OptimizationSettingsDeployment>
+    <WriteBackTableCreation>UseExisting</WriteBackTableCreation>
+  </Options>
+  <Snapshot>
+    <ObjectSnapshots>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
+        <TimeStamp>/wTOZtu+NEWB2/DApoPp1c35aPg=05.01.2026 15:08:0605.01.2026 15:08:06</TimeStamp>
+        <ID>
+          <String>Excursions DWH</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.DataSourceView</Type>
+        <TimeStamp>yXRuMe+ni87Pdts6e0e2xk0cCTM=05.01.2026 15:12:3205.01.2026 15:12:32</TimeStamp>
+        <ID>
+          <String>Excursions DWH</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>FO2KWsk9iA3oOwXC4/SgPO2ib+Y=05.01.2026 15:49:5305.01.2026 15:19:01</TimeStamp>
+        <ID>
+          <String>Dim Date</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>nvNCN/SVH/CZDamxp0fU3oOjQW4=05.01.2026 15:49:5305.01.2026 15:19:01</TimeStamp>
+        <ID>
+          <String>Dim Customer</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>hUxvxSVAAX2Zil10R6ikcGeEZzY=05.01.2026 15:49:5305.01.2026 15:19:01</TimeStamp>
+        <ID>
+          <String>Dim Excursion</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>/9FhpWJu5SnY9QrxorjqRoyukXc=05.01.2026 15:49:5305.01.2026 15:19:01</TimeStamp>
+        <ID>
+          <String>Dim Invoice</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>T9uHZZ7jeG5C/9SDeT1wVT9n5hA=05.01.2026 15:49:5305.01.2026 15:19:01</TimeStamp>
+        <ID>
+          <String>Dim Bus</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>Z8sytVACAv1VF0I5jThSN5h4OzU=05.01.2026 15:49:5305.01.2026 15:19:01</TimeStamp>
+        <ID>
+          <String>Dim Driver</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>NSvJbARsxKAez5hsO/XWiO+1n/o=05.01.2026 15:49:5305.01.2026 15:19:015rR+9R9lQKiqUL52wX3kVFicmqk=05.01.2026 15:19:0105.01.2026 15:19:01</TimeStamp>
+        <ID>
+          <String>Excursions DWH</String>
+        </ID>
+      </ObjectSnapshot>
+    </ObjectSnapshots>
+    <DatabaseSnapshot>
+      <Type>Microsoft.AnalysisServices.Database</Type>
+      <TimeStamp>vkt/NVcZGIuXrOumIUK02+iuagg=05.01.2026 14:39:2705.01.2026 14:39:26</TimeStamp>
+      <ID>
+        <String>SSAS</String>
+      </ID>
+    </DatabaseSnapshot>
+    <Granularity>Coarse</Granularity>
+  </Snapshot>
+  <AssemblyLocations />
+  <ProcessingComplete>true</ProcessingComplete>
+  <LastDeployed>2026-01-05T13:50:02.746667Z</LastDeployed>
+</DeploymentSnapshot>
